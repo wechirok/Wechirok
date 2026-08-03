@@ -6,7 +6,7 @@ I also work with visual design, video editing and audio processing.
 
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=java,python,kotlin,bash,html,css,js,ts,nodejs,md&theme=dark"
+    src="https://skillicons.dev/icons?i=java,python,kotlin,bash,html,css,js,ts,nodejs&theme=dark"
     alt="Java, Python, Kotlin, Bash, HTML, CSS, JavaScript, TypeScript, Node.js"
   />
 </p>
