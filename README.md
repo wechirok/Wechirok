@@ -15,14 +15,11 @@ I am focused on system administration, server infrastructure, automation, databa
 </p>
 
 <p>
-  <strong>FRAMEWORKS &amp; RUNTIME</strong><br>
+  <strong>FRAMEWORKS</strong><br>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring">
   <img src="https://img.shields.io/badge/Spring%20Boot-4F9E36?style=flat&logo=springboot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="NestJS">
 </p>
 
 <p>
