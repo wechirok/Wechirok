@@ -10,8 +10,7 @@
   <img src="https://img.shields.io/badge/DATABASE-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/DATABASE-MariaDB-003545?style=flat&logo=mariadb&logoColor=white" alt="MariaDB">
   <img src="https://img.shields.io/badge/DATABASE-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/DATABASE-Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server">
-  <img src="https://img.shields.io/badge/DATABASE-Oracle%20Database-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle Database">
+  <img src="https://img.shields.io/badge/DATABASE-Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle Database">
 </p>
 
 <p>
@@ -28,22 +27,22 @@
   <img src="https://img.shields.io/badge/TOOLS-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
   <img src="https://img.shields.io/badge/TOOLS-IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA">
   <img src="https://img.shields.io/badge/TOOLS-PyCharm-000000?style=flat&logo=pycharm&logoColor=white" alt="PyCharm">
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/TOOLS-OpenSSH-000000?style=flat&logo=openssh&logoColor=white" alt="OpenSSH">
   <img src="https://img.shields.io/badge/TOOLS-tmux-1BB91F?style=flat&logo=tmux&logoColor=white" alt="tmux">
   <img src="https://img.shields.io/badge/TOOLS-Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord">
-  <img src="https://img.shields.io/badge/TOOLS-Packwiz-555555?style=flat" alt="Packwiz">
-  <img src="https://img.shields.io/badge/TOOLS-Prism%20Launcher-99CD61?style=flat&logo=prismlauncher&logoColor=white" alt="Prism Launcher">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/TOOLS-Packwiz-00ADD8?style=flat&logo=go&logoColor=white" alt="Packwiz">
+  <img src="https://img.shields.io/badge/TOOLS-Prism%20Launcher-41CD52?style=flat&logo=qt&logoColor=white" alt="Prism Launcher">
   <img src="https://img.shields.io/badge/TOOLS-Modrinth-00AF5C?style=flat&logo=modrinth&logoColor=white" alt="Modrinth">
   <img src="https://img.shields.io/badge/TOOLS-CurseForge-F16436?style=flat&logo=curseforge&logoColor=white" alt="CurseForge">
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/TOOLS-Paper-555555?style=flat" alt="Paper">
-  <img src="https://img.shields.io/badge/TOOLS-Velocity-555555?style=flat" alt="Velocity">
-  <img src="https://img.shields.io/badge/TOOLS-Fabric-DBD0B4?style=flat" alt="Fabric">
-  <img src="https://img.shields.io/badge/TOOLS-NeoForge-EA4A36?style=flat" alt="NeoForge">
-  <img src="https://img.shields.io/badge/TOOLS-TShock-555555?style=flat" alt="TShock">
+  <img src="https://img.shields.io/badge/TOOLS-Paper-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Paper">
+  <img src="https://img.shields.io/badge/TOOLS-Velocity-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Velocity">
+  <img src="https://img.shields.io/badge/TOOLS-Fabric-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Fabric">
+  <img src="https://img.shields.io/badge/TOOLS-NeoForge-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="NeoForge">
+  <img src="https://img.shields.io/badge/TOOLS-TShock-512BD4?style=flat&logo=dotnet&logoColor=white" alt="TShock">
 </p>
