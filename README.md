@@ -1,6 +1,7 @@
 # Hello there, I am Wechirok
 
-I am focused on system administration, server infrastructure, automation, databases and software development. I am interested in understanding how services interact and in building systems that are clear, reliable and maintainable.
+Focused on system administration, server infrastructure, automation, databases and software development. I am constantly working to deepen my understanding of how these systems and services operate while continuing to learn new things.
+
 
 <p>
   <strong>CODE</strong><br>
