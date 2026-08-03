@@ -2,7 +2,7 @@
 
 I manage a private community and study how server infrastructure, services and integrations work together. I maintain Linux based systems, game servers, Discord automation, databases, configurations, documentation and project backlogs.
 
-I also work with visual design, video editing, audio processing and project presentation. I prefer clear structure, practical decisions and systems that are easy to understand and maintain.
+I also work with visual design, video editing and audio processing.
 
 <p align="left">
   <img
