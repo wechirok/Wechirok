@@ -13,8 +13,8 @@ I also work with visual design, video editing and audio processing.
 
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=nodejs,django,express,nestjs&theme=dark"
-    alt="Node.js, Django, Express and NestJS"
+    src="https://skillicons.dev/icons?i=nodejs,django,fastapi,spring,express,nestjs&theme=dark"
+    alt="Node.js, Django, FastAPI, Spring, Express and NestJS"
   />
 </p>
 
@@ -57,6 +57,9 @@ I also work with visual design, video editing and audio processing.
 
 <p>
   <img src="https://img.shields.io/badge/BACKEND-Django-092E20?style=flat&logo=django&logoColor=white&labelColor=30363D" alt="Django">
+  <img src="https://img.shields.io/badge/BACKEND-FastAPI-009688?style=flat&logo=fastapi&logoColor=white&labelColor=30363D" alt="FastAPI">
+  <img src="https://img.shields.io/badge/BACKEND-Spring-6DB33F?style=flat&logo=spring&logoColor=white&labelColor=30363D" alt="Spring">
+  <img src="https://img.shields.io/badge/BACKEND-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white&labelColor=30363D" alt="Spring Boot">
   <img src="https://img.shields.io/badge/BACKEND-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white&labelColor=30363D" alt="Node.js">
   <img src="https://img.shields.io/badge/BACKEND-Express-000000?style=flat&logo=express&logoColor=white&labelColor=30363D" alt="Express">
   <img src="https://img.shields.io/badge/BACKEND-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white&labelColor=30363D" alt="NestJS">
