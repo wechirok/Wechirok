@@ -2,48 +2,6 @@
 
 I am focused on system administration, server infrastructure, automation, databases and software development. I am interested in understanding how services interact and in building systems that are clear, reliable and maintainable.
 
-I also work with visual design, video editing and audio processing.
-
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=java,python,kotlin,bash,html,css,js,ts&theme=dark"
-    alt="Java, Python, Kotlin, Bash, HTML, CSS, JavaScript and TypeScript"
-  />
-</p>
-
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=nodejs,django,fastapi,spring,express,nestjs&theme=dark"
-    alt="Node.js, Django, FastAPI, Spring, Express and NestJS"
-  />
-</p>
-
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=linux,windows,docker,git,gradle,vscode,idea,pycharm,postgres,mysql,sqlite&theme=dark"
-    alt="Linux, Windows, Docker, Git, Gradle, Visual Studio Code, IntelliJ IDEA, PyCharm, PostgreSQL, MySQL and SQLite"
-  />
-</p>
-
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=ps,ai,pr,ae,au,xd&theme=dark"
-    alt="Adobe Photoshop, Illustrator, Premiere Pro, After Effects, Audition and Adobe XD"
-  />
-  <img
-    src="https://upload.wikimedia.org/wikipedia/commons/0/03/Avid_Media_Composer_Logo.svg"
-    width="48"
-    height="48"
-    alt="Avid Media Composer"
-  />
-  <img
-    src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg"
-    width="48"
-    height="48"
-    alt="DaVinci Resolve"
-  />
-</p>
-
 <p>
   <strong>CODE</strong><br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
@@ -88,4 +46,25 @@ I also work with visual design, video editing and audio processing.
   <img src="https://img.shields.io/badge/OpenSSH-5E5E5E?style=flat&logo=openssh&logoColor=white" alt="OpenSSH">
   <img src="https://img.shields.io/badge/systemd-000000?style=flat&logo=systemd&logoColor=white" alt="systemd">
   <img src="https://img.shields.io/badge/tmux-1BB91F?style=flat&logo=tmux&logoColor=white" alt="tmux">
+</p>
+
+I also work with visual design, video editing and audio processing.
+
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=ps,ai,pr,ae,au,xd&theme=dark"
+    alt="Adobe Photoshop, Illustrator, Premiere Pro, After Effects, Audition and Adobe XD"
+  />
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/0/03/Avid_Media_Composer_Logo.svg"
+    width="48"
+    height="48"
+    alt="Avid Media Composer"
+  />
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg"
+    width="48"
+    height="48"
+    alt="DaVinci Resolve"
+  />
 </p>
