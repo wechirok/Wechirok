@@ -13,8 +13,8 @@ I also work with visual design, video editing and audio processing.
 
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=nodejs,rails,django,fastapi,spring,express,nestjs&theme=dark"
-    alt="Node.js, Ruby on Rails, Django, FastAPI, Spring, Express and NestJS"
+    src="https://skillicons.dev/icons?i=nodejs,rails,django,spring,express,nestjs&theme=dark"
+    alt="Node.js, Ruby on Rails, Django, Spring, Express and NestJS"
   />
 </p>
 
