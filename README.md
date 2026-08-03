@@ -59,7 +59,6 @@ I also work with visual design, video editing and audio processing.
 <p>
   <img src="https://img.shields.io/badge/BACKEND-Ruby%20on%20Rails-D30001?style=flat&logo=rubyonrails&logoColor=white&labelColor=30363D" alt="Ruby on Rails">
   <img src="https://img.shields.io/badge/BACKEND-Django-092E20?style=flat&logo=django&logoColor=white&labelColor=30363D" alt="Django">
-  <img src="https://img.shields.io/badge/BACKEND-FastAPI-009688?style=flat&logo=fastapi&logoColor=white&labelColor=30363D" alt="FastAPI">
   <img src="https://img.shields.io/badge/BACKEND-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white&labelColor=30363D" alt="Spring Boot">
   <img src="https://img.shields.io/badge/BACKEND-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white&labelColor=30363D" alt="Node.js">
   <img src="https://img.shields.io/badge/BACKEND-Express-000000?style=flat&logo=express&logoColor=white&labelColor=30363D" alt="Express">
