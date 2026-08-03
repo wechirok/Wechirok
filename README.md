@@ -1,3 +1,24 @@
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=python,java,kotlin,bash,html,css,js,ts,nodejs,md&theme=dark"
+    alt="Development"
+  />
+</p>
+
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,linux,windows,git,githubactions,gradle,vscode&theme=dark"
+    alt="Systems and development environment"
+  />
+</p>
+
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=ps,ai,pr,ae,au,xd&theme=dark"
+    alt="Adobe creative software"
+  />
+</p>
+
 <p>
   <img src="https://img.shields.io/badge/CODE-Java-ED8B00?style=flat&logo=openjdk&logoColor=white&labelColor=30363D" alt="Java">
   <img src="https://img.shields.io/badge/CODE-Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=30363D" alt="Python">
