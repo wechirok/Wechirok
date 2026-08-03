@@ -38,14 +38,6 @@ Focused on system administration, server infrastructure, automation, databases a
   <img src="https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows11&logoColor=white" alt="Windows">
 </p>
 
-<p>
-  <strong>INFRASTRUCTURE</strong><br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/OpenSSH-5E5E5E?style=flat&logo=openssh&logoColor=white" alt="OpenSSH">
-  <img src="https://img.shields.io/badge/systemd-000000?style=flat&logo=systemd&logoColor=white" alt="systemd">
-  <img src="https://img.shields.io/badge/tmux-1BB91F?style=flat&logo=tmux&logoColor=white" alt="tmux">
-</p>
-
 Actively exploring web design, graphic design, video editing and audio processing.
 
 <p align="left">
