@@ -36,6 +36,8 @@ I am focused on system administration, server infrastructure, automation, databa
 <p>
   <strong>OPERATING SYSTEMS</strong><br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Ubuntu%20Server-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu Server">
+  <img src="https://img.shields.io/badge/openSUSE%20Leap-73BA25?style=flat&logo=opensuse&logoColor=white" alt="openSUSE Leap">
   <img src="https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows11&logoColor=white" alt="Windows">
 </p>
 
