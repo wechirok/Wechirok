@@ -48,7 +48,7 @@ I am focused on system administration, server infrastructure, automation, databa
   <img src="https://img.shields.io/badge/tmux-1BB91F?style=flat&logo=tmux&logoColor=white" alt="tmux">
 </p>
 
-I also work with visual design, video editing and audio processing.
+Actively exploring web design, graphic design, video editing and audio processing.
 
 <p align="left">
   <img
