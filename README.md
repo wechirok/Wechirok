@@ -1,6 +1,6 @@
 # Hi, I am Wechirok
 
-I manage a private community and study how server infrastructure, services and integrations work together. I maintain Linux based systems, game servers, Discord automation, databases, configurations, documentation and project backlogs.
+I am focused on system administration, server infrastructure, automation, databases and software development. I am learning how services interact and how to build systems that are clear, reliable and maintainable.
 
 I also work with visual design, video editing and audio processing.
 
