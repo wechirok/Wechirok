@@ -29,6 +29,12 @@ I also work with visual design, video editing, audio processing and project pres
     height="48"
     alt="Avid Media Composer"
   />
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg"
+    width="48"
+    height="48"
+    alt="DaVinci Resolve"
+  />
 </p>
 
 <p>
