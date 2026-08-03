@@ -1,28 +1,45 @@
+# Hi, I am Wechirok
+
+I manage a private community and study how server infrastructure, services and integrations work together. I maintain Linux based systems, game servers, Discord automation, databases, configurations, documentation and project backlogs.
+
+I also work with visual design, video editing, audio processing and project presentation. I prefer clear structure, practical decisions and systems that are easy to understand and maintain.
+
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=python,java,kotlin,bash,html,css,js,ts,nodejs,md&theme=dark"
-    alt="Development"
+    src="https://skillicons.dev/icons?i=java,python,kotlin,bash,html,css,js,ts,nodejs,md&theme=dark"
+    alt="Java, Python, Kotlin, Bash, HTML, CSS, JavaScript, TypeScript, Node.js and Markdown"
   />
 </p>
 
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,linux,windows,git,githubactions,gradle,vscode&theme=dark"
-    alt="Systems and development environment"
+    src="https://skillicons.dev/icons?i=linux,windows,docker,git,githubactions,gradle,vscode,idea,pycharm,postgres,mysql,sqlite&theme=dark"
+    alt="Linux, Windows, Docker, Git, GitHub Actions, Gradle, Visual Studio Code, IntelliJ IDEA, PyCharm, PostgreSQL, MySQL and SQLite"
   />
 </p>
 
 <p align="left">
   <img
     src="https://skillicons.dev/icons?i=ps,ai,pr,ae,au,xd&theme=dark"
-    alt="Adobe creative software"
+    alt="Adobe Photoshop, Illustrator, Premiere Pro, After Effects, Audition and Adobe XD"
+  />
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/0/03/Avid_Media_Composer_Logo.svg"
+    width="48"
+    height="48"
+    alt="Avid Media Composer"
   />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/CODE-Java-ED8B00?style=flat&logo=openjdk&logoColor=white&labelColor=30363D" alt="Java">
   <img src="https://img.shields.io/badge/CODE-Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=30363D" alt="Python">
+  <img src="https://img.shields.io/badge/CODE-Kotlin%20DSL-7F52FF?style=flat&logo=kotlin&logoColor=white&labelColor=30363D" alt="Kotlin DSL">
   <img src="https://img.shields.io/badge/CODE-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white&labelColor=30363D" alt="Bash">
+  <img src="https://img.shields.io/badge/CODE-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&labelColor=30363D" alt="JavaScript">
+  <img src="https://img.shields.io/badge/CODE-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=30363D" alt="TypeScript">
+  <img src="https://img.shields.io/badge/CODE-HTML5-E34F26?style=flat&logo=html5&logoColor=white&labelColor=30363D" alt="HTML5">
+  <img src="https://img.shields.io/badge/CODE-CSS3-1572B6?style=flat&logo=css&logoColor=white&labelColor=30363D" alt="CSS3">
 </p>
 
 <p>
