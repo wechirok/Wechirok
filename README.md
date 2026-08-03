@@ -1,4 +1,4 @@
-# Hi, I am Wechirok
+# Hello there, I am Wechirok
 
 I am focused on system administration, server infrastructure, automation, databases and software development. I am interested in understanding how services interact and in building systems that are clear, reliable and maintainable.
 
