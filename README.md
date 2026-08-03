@@ -6,15 +6,15 @@ I also work with visual design, video editing and audio processing.
 
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=java,python,ruby,kotlin,bash,html,css,js,ts&theme=dark"
-    alt="Java, Python, Ruby, Kotlin, Bash, HTML, CSS, JavaScript, TypeScript"
+    src="https://skillicons.dev/icons?i=java,python,kotlin,bash,html,css,js,ts&theme=dark"
+    alt="Java, Python, Kotlin, Bash, HTML, CSS, JavaScript and TypeScript"
   />
 </p>
 
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=nodejs,rails,django,express,nestjs&theme=dark"
-    alt="Node.js, Ruby on Rails, Django, Express and NestJS"
+    src="https://skillicons.dev/icons?i=nodejs,django,express,nestjs&theme=dark"
+    alt="Node.js, Django, Express and NestJS"
   />
 </p>
 
@@ -47,7 +47,6 @@ I also work with visual design, video editing and audio processing.
 <p>
   <img src="https://img.shields.io/badge/CODE-Java-ED8B00?style=flat&logo=openjdk&logoColor=white&labelColor=30363D" alt="Java">
   <img src="https://img.shields.io/badge/CODE-Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=30363D" alt="Python">
-  <img src="https://img.shields.io/badge/CODE-Ruby-CC342D?style=flat&logo=ruby&logoColor=white&labelColor=30363D" alt="Ruby">
   <img src="https://img.shields.io/badge/CODE-Kotlin%20DSL-7F52FF?style=flat&logo=kotlin&logoColor=white&labelColor=30363D" alt="Kotlin DSL">
   <img src="https://img.shields.io/badge/CODE-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white&labelColor=30363D" alt="Bash">
   <img src="https://img.shields.io/badge/CODE-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&labelColor=30363D" alt="JavaScript">
@@ -57,7 +56,6 @@ I also work with visual design, video editing and audio processing.
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/BACKEND-Ruby%20on%20Rails-D30001?style=flat&logo=rubyonrails&logoColor=white&labelColor=30363D" alt="Ruby on Rails">
   <img src="https://img.shields.io/badge/BACKEND-Django-092E20?style=flat&logo=django&logoColor=white&labelColor=30363D" alt="Django">
   <img src="https://img.shields.io/badge/BACKEND-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white&labelColor=30363D" alt="Node.js">
   <img src="https://img.shields.io/badge/BACKEND-Express-000000?style=flat&logo=express&logoColor=white&labelColor=30363D" alt="Express">
