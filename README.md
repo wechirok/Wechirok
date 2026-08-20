@@ -6,13 +6,22 @@ Recently I started working on localization projects and translating software int
 
 <p>
   <a href="https://hosted.weblate.org/user/wechirok/">
-    <img src="https://img.shields.io/badge/Weblate-2ECCAA?style=flat&logo=weblate&logoColor=white" alt="Weblate">
+    <img
+      src="https://img.shields.io/badge/Weblate-2ECCAA?style=for-the-badge&logo=weblate&logoColor=white"
+      alt="Weblate"
+    >
   </a>
   <a href="https://modrinth.com/user/Wechirok">
-    <img src="https://img.shields.io/badge/Modrinth-00AF5C?style=flat&logo=modrinth&logoColor=white" alt="Modrinth">
+    <img
+      src="https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white"
+      alt="Modrinth"
+    >
   </a>
   <a href="https://www.curseforge.com/members/wechirok">
-    <img src="https://img.shields.io/badge/CurseForge-F16436?style=flat&logo=curseforge&logoColor=white" alt="CurseForge">
+    <img
+      src="https://img.shields.io/badge/CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=white"
+      alt="CurseForge"
+    >
   </a>
 </p>
 
