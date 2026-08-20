@@ -5,6 +5,18 @@ Focused on system administration, server infrastructure, automation, databases a
 Recently I started working on localization projects and translating software into Ukrainian.
 
 <p>
+  <a href="https://hosted.weblate.org/user/wechirok/">
+    <img src="https://img.shields.io/badge/Weblate-2ECCAA?style=flat&logo=weblate&logoColor=white" alt="Weblate">
+  </a>
+  <a href="https://modrinth.com/user/Wechirok">
+    <img src="https://img.shields.io/badge/Modrinth-00AF5C?style=flat&logo=modrinth&logoColor=white" alt="Modrinth">
+  </a>
+  <a href="https://www.curseforge.com/members/wechirok">
+    <img src="https://img.shields.io/badge/CurseForge-F16436?style=flat&logo=curseforge&logoColor=white" alt="CurseForge">
+  </a>
+</p>
+
+<p>
   <strong>CODE</strong><br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
