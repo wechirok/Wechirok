@@ -2,6 +2,8 @@
 
 Focused on system administration, server infrastructure, automation, databases and software development. I am constantly working to deepen my understanding of how these systems and services operate while continuing to learn new things.
 
+Recently I started working on localization projects and translating software into Ukrainian.
+
 <p>
   <strong>CODE</strong><br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
