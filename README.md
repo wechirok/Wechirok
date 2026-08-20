@@ -4,26 +4,11 @@ Focused on system administration, server infrastructure, automation, databases a
 
 Recently I started working on localization projects and translating software into Ukrainian.
 
-<p>
-  <a href="https://hosted.weblate.org/user/wechirok/">
-    <img
-      src="https://img.shields.io/badge/Weblate-2ECCAA?style=for-the-badge&logo=weblate&logoColor=white"
-      alt="Weblate"
-    >
-  </a>
-  <a href="https://modrinth.com/user/Wechirok">
-    <img
-      src="https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white"
-      alt="Modrinth"
-    >
-  </a>
-  <a href="https://www.curseforge.com/members/wechirok">
-    <img
-      src="https://img.shields.io/badge/CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=white"
-      alt="CurseForge"
-    >
-  </a>
-</p>
+[![WEBLATE](https://img.shields.io/badge/WEBLATE-2ECCAA?style=for-the-badge&logo=weblate&logoColor=white&labelColor=000000)](https://hosted.weblate.org/user/wechirok/)
+
+[![MODRINTH](https://img.shields.io/badge/MODRINTH-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white&labelColor=000000)](https://modrinth.com/user/Wechirok)
+
+[![CURSEFORGE](https://img.shields.io/badge/CURSEFORGE-F16436?style=for-the-badge&logo=curseforge&logoColor=white&labelColor=000000)](https://www.curseforge.com/members/wechirok)
 
 <p>
   <strong>CODE</strong><br>
