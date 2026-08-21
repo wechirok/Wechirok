@@ -47,49 +47,49 @@ Recently I started working on localization projects and translating software int
 
 Actively exploring web design, graphic design, video editing and audio processing.
 
-<p align="left" style="display: flex; align-items: center; gap: 8px;">
+<p align="left">
   <img
     src="https://skillicons.dev/icons?i=ps&theme=dark"
     width="48"
     height="48"
     alt="Adobe Photoshop"
-  />
+  />&nbsp;&nbsp;
   <img
     src="https://skillicons.dev/icons?i=ai&theme=dark"
     width="48"
     height="48"
     alt="Adobe Illustrator"
-  />
+  />&nbsp;&nbsp;
   <img
     src="https://skillicons.dev/icons?i=pr&theme=dark"
     width="48"
     height="48"
     alt="Adobe Premiere Pro"
-  />
+  />&nbsp;&nbsp;
   <img
     src="https://skillicons.dev/icons?i=ae&theme=dark"
     width="48"
     height="48"
     alt="Adobe After Effects"
-  />
+  />&nbsp;&nbsp;
   <img
     src="https://skillicons.dev/icons?i=au&theme=dark"
     width="48"
     height="48"
     alt="Adobe Audition"
-  />
+  />&nbsp;&nbsp;
   <img
     src="https://skillicons.dev/icons?i=xd&theme=dark"
     width="48"
     height="48"
     alt="Adobe XD"
-  />
+  />&nbsp;&nbsp;
   <img
     src="https://upload.wikimedia.org/wikipedia/commons/0/03/Avid_Media_Composer_Logo.svg"
     width="48"
     height="48"
     alt="Avid Media Composer"
-  />
+  />&nbsp;&nbsp;
   <img
     src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg"
     width="48"
