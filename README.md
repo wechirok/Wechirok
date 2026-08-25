@@ -4,14 +4,15 @@ Focused on system administration, server infrastructure, automation, databases a
 
 Recently I started working on localization projects and translating software.
 
-[![DISCORD](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.com/users/526310915549691905)
-[![STEAM](https://img.shields.io/badge/STEAM-1B2838?style=for-the-badge&logo=steam&logoColor=white&labelColor=000000)](https://steamcommunity.com/id/wechirok/)
-[![WEBLATE](https://img.shields.io/badge/WEBLATE-2ECCAA?style=for-the-badge&logo=weblate&logoColor=white&labelColor=000000)](https://hosted.weblate.org/user/wechirok/)
-[![MODRINTH](https://img.shields.io/badge/MODRINTH-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white&labelColor=000000)](https://modrinth.com/user/Wechirok)
-[![CURSEFORGE](https://img.shields.io/badge/CURSEFORGE-F16436?style=for-the-badge&logo=curseforge&logoColor=white&labelColor=000000)](https://www.curseforge.com/members/wechirok)
+  <strong>You can find me there</strong><br>
+  [![DISCORD](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.com/users/526310915549691905)
+  [![STEAM](https://img.shields.io/badge/STEAM-1B2838?style=for-the-badge&logo=steam&logoColor=white&labelColor=000000)](https://steamcommunity.com/id/wechirok/)
+  [![WEBLATE](https://img.shields.io/badge/WEBLATE-2ECCAA?style=for-the-badge&logo=weblate&logoColor=white&labelColor=000000)](https://hosted.weblate.org/user/wechirok/)
+  [![MODRINTH](https://img.shields.io/badge/MODRINTH-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white&labelColor=000000)](https://modrinth.com/user/Wechirok)
+  [![CURSEFORGE](https://img.shields.io/badge/CURSEFORGE-F16436?style=for-the-badge&logo=curseforge&logoColor=white&labelColor=000000)](https://www.curseforge.com/members/wechirok)
 
 <p>
-  <strong>CODE</strong><br>
+  <strong>Code</strong><br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Kotlin%20DSL-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin DSL">
@@ -23,7 +24,7 @@ Recently I started working on localization projects and translating software.
 </p>
 
 <p>
-  <strong>FRAMEWORKS</strong><br>
+  <strong>Frameworks</strong><br>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring">
@@ -31,7 +32,7 @@ Recently I started working on localization projects and translating software.
 </p>
 
 <p>
-  <strong>DATABASES</strong><br>
+  <strong>Databases</strong><br>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite">
@@ -39,7 +40,7 @@ Recently I started working on localization projects and translating software.
 </p>
 
 <p>
-  <strong>OPERATING SYSTEMS</strong><br>
+  <strong>Operating systems</strong><br>
   <img src="https://img.shields.io/badge/Ubuntu%20Server-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu Server">
   <img src="https://img.shields.io/badge/openSUSE%20Leap-73BA25?style=flat&logo=opensuse&logoColor=white" alt="openSUSE Leap">
   <img src="https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows11&logoColor=white" alt="Windows">
