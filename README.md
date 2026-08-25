@@ -2,7 +2,7 @@
 
 Focused on system administration, server infrastructure, automation, databases and software development. I am constantly working to deepen my understanding of how these systems and services operate while continuing to learn new things.
 
-Recently I started working on localization projects and translating software into Ukrainian.
+Recently I started working on localization projects and translating software.
 
 [![DISCORD](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.com/users/526310915549691905)
 [![STEAM](https://img.shields.io/badge/STEAM-1B2838?style=for-the-badge&logo=steam&logoColor=white&labelColor=000000)](https://steamcommunity.com/id/wechirok/)
