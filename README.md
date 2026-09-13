@@ -14,75 +14,59 @@ Recently I started working on localization projects and translating software.
 Actively exploring web design, graphic design, video editing and audio processing.
 
 <p align="left">
-  <a href="https://www.adobe.com/products/photoshop.html">
-    <img
-      src="https://skillicons.dev/icons?i=ps&theme=dark"
-      width="48"
-      height="48"
-      alt="Adobe Photoshop"
-    />
-  </a>&nbsp;&nbsp;
+  <a href="https://www.adobe.com/products/photoshop.html"><img
+    src="https://skillicons.dev/icons?i=ps&theme=dark"
+    width="48"
+    height="48"
+    alt="Adobe Photoshop"
+  /></a>&nbsp;&nbsp;
 
-  <a href="https://www.adobe.com/products/illustrator.html">
-    <img
-      src="https://skillicons.dev/icons?i=ai&theme=dark"
-      width="48"
-      height="48"
-      alt="Adobe Illustrator"
-    />
-  </a>&nbsp;&nbsp;
+  <a href="https://www.adobe.com/products/illustrator.html"><img
+    src="https://skillicons.dev/icons?i=ai&theme=dark"
+    width="48"
+    height="48"
+    alt="Adobe Illustrator"
+  /></a>&nbsp;&nbsp;
 
-  <a href="https://www.adobe.com/products/premiere.html">
-    <img
-      src="https://skillicons.dev/icons?i=pr&theme=dark"
-      width="48"
-      height="48"
-      alt="Adobe Premiere"
-    />
-  </a>&nbsp;&nbsp;
+  <a href="https://www.adobe.com/products/premiere.html"><img
+    src="https://skillicons.dev/icons?i=pr&theme=dark"
+    width="48"
+    height="48"
+    alt="Adobe Premiere Pro"
+  /></a>&nbsp;&nbsp;
 
-  <a href="https://www.adobe.com/products/aftereffects.html">
-    <img
-      src="https://skillicons.dev/icons?i=ae&theme=dark"
-      width="48"
-      height="48"
-      alt="Adobe After Effects"
-    />
-  </a>&nbsp;&nbsp;
+  <a href="https://www.adobe.com/products/aftereffects.html"><img
+    src="https://skillicons.dev/icons?i=ae&theme=dark"
+    width="48"
+    height="48"
+    alt="Adobe After Effects"
+  /></a>&nbsp;&nbsp;
 
-  <a href="https://www.adobe.com/products/audition.html">
-    <img
-      src="https://skillicons.dev/icons?i=au&theme=dark"
-      width="48"
-      height="48"
-      alt="Adobe Audition"
-    />
-  </a>&nbsp;&nbsp;
+  <a href="https://www.adobe.com/products/audition.html"><img
+    src="https://skillicons.dev/icons?i=au&theme=dark"
+    width="48"
+    height="48"
+    alt="Adobe Audition"
+  /></a>&nbsp;&nbsp;
 
-  <a href="https://www.adobe.com/products/xd.html">
-    <img
-      src="https://skillicons.dev/icons?i=xd&theme=dark"
-      width="48"
-      height="48"
-      alt="Adobe XD"
-    />
-  </a>&nbsp;&nbsp;
+  <a href="https://www.adobe.com/products/xd.html"><img
+    src="https://skillicons.dev/icons?i=xd&theme=dark"
+    width="48"
+    height="48"
+    alt="Adobe XD"
+  /></a>&nbsp;&nbsp;
 
-  <a href="https://www.avid.com/media-composer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/0/03/Avid_Media_Composer_Logo.svg"
-      width="48"
-      height="48"
-      alt="Avid Media Composer"
-    />
-  </a>&nbsp;&nbsp;
+  <a href="https://www.avid.com/media-composer"><img
+    src="https://upload.wikimedia.org/wikipedia/commons/0/03/Avid_Media_Composer_Logo.svg"
+    width="48"
+    height="48"
+    alt="Avid Media Composer"
+  /></a>&nbsp;&nbsp;
 
-  <a href="https://www.blackmagicdesign.com/products/davinciresolve">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg"
-      width="48"
-      height="48"
-      alt="DaVinci Resolve"
-    />
-  </a>
+  <a href="https://www.blackmagicdesign.com/products/davinciresolve"><img
+    src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg"
+    width="48"
+    height="48"
+    alt="DaVinci Resolve"
+  /></a>
 </p>
