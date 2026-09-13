@@ -7,6 +7,7 @@ Recently I started working on localization projects and translating software.
   <strong>You can find me there</strong><br>
   [![DISCORD](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.com/users/526310915549691905)
   [![STEAM](https://img.shields.io/badge/STEAM-1B2838?style=for-the-badge&logo=steam&logoColor=white&labelColor=000000)](https://steamcommunity.com/id/wechirok/)
+  [![CROWDIN](https://img.shields.io/badge/CROWDIN-2E3340?style=for-the-badge&logo=crowdin&logoColor=white&labelColor=000000)](https://crowdin.com/profile/katzeyoru)
   [![WEBLATE](https://img.shields.io/badge/WEBLATE-2ECCAA?style=for-the-badge&logo=weblate&logoColor=white&labelColor=000000)](https://hosted.weblate.org/user/wechirok/)
   [![MODRINTH](https://img.shields.io/badge/MODRINTH-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white&labelColor=000000)](https://modrinth.com/user/Wechirok)
   [![CURSEFORGE](https://img.shields.io/badge/CURSEFORGE-F16436?style=for-the-badge&logo=curseforge&logoColor=white&labelColor=000000)](https://www.curseforge.com/members/wechirok)
